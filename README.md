@@ -1,3 +1,10 @@
+Added Functionality - 
+1. FAQ Dropdowns using React-Bootstrap
+2. Added chat Functionality for support using tawk.to as a widget at bottom
+3. Deployed on https://focused-bartik-5c20c4.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
